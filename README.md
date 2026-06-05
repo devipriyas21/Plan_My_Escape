@@ -1,2 +1,1 @@
-# Plan_My_Escape
-PlanMyEscape is a modern travel planning website built with Next.js and Tailwind CSS. Users can explore destinations, plan trips based on budget and duration, discover curated adventures, and connect with verified travel groups through a safety-focused platform.
+PlanMyEscape is a travel discovery and trip planning platform designed for modern explorers. The platform helps travelers find destinations that match their budget, interests, and trip duration while providing a secure environment for solo travelers to connect with verified travel groups. Featuring immersive visuals, curated travel experiences, safety-focused community features, and a modern user interface, PlanMyEscape aims to make travel planning simple, inspiring, and accessible.
